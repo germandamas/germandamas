@@ -1,6 +1,6 @@
  <h1 align="center">Hi, I'm <a href="https://github.com/Kathryn-Jie">Germán Damas<a><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="60px"/></h1>
 
-I'm an undergraduate Systems Engineering student. My academic focus includes data structures, algorithms, and software development methodologies. I'm passionate about learning and building innovative, creative, and productive solutions.
+I am a Systems Engineer with experience in web and mobile development, specializing in modern technologies such as Python, Django, React Native, TypeScript, and PostgreSQL. I focus on creating innovative, efficient, and scalable solutions, with a strong commitment to quality and development best practices.
 - 🔭 I’m currently studying:
 	- Mobile Application Development 
 	- Web Application Development 
